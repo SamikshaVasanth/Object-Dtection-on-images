@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+
+h2
+{
+font-family:'Zeyada', cursive;
+font-weight:bold;
+}
+
+.btn
+{
+    color: cornflowerblue;
+    font-size: large;
+}
+
+a{
+    font-size: 20px !important;
+    width: 350px;
+    border-radius: 40px !important;
+    background-color: crimson;
+}
